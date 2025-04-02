@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\UDException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{067A63A8-BA05-4C46-864F-AC3BA80CD826}|UDException\\UDException.csproj|c:\\users\\admin\\source\\repos\\udexception\\udexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067A63A8-BA05-4C46-864F-AC3BA80CD826}|UDException\\UDException.csproj|solutionrelative:udexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067A63A8-BA05-4C46-864F-AC3BA80CD826}|UDException\\UDException.csproj|c:\\users\\admin\\source\\repos\\udexception\\udexception\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067A63A8-BA05-4C46-864F-AC3BA80CD826}|UDException\\UDException.csproj|solutionrelative:udexception\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067A63A8-BA05-4C46-864F-AC3BA80CD826}|UDException\\UDException.csproj|c:\\users\\admin\\source\\repos\\udexception\\udexception\\insufficientfundsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067A63A8-BA05-4C46-864F-AC3BA80CD826}|UDException\\UDException.csproj|solutionrelative:udexception\\insufficientfundsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UDException\\UDException\\BankAccount.cs",
+              "RelativeDocumentMoniker": "UDException\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UDException\\UDException\\BankAccount.cs",
+              "RelativeToolTip": "UDException\\BankAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:49:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsufficientFundsException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UDException\\UDException\\InsufficientFundsException.cs",
+              "RelativeDocumentMoniker": "UDException\\InsufficientFundsException.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UDException\\UDException\\InsufficientFundsException.cs",
+              "RelativeToolTip": "UDException\\InsufficientFundsException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:48:51.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\UDException\\UDException\\Program.cs",
+              "RelativeDocumentMoniker": "UDException\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\UDException\\UDException\\Program.cs",
+              "RelativeToolTip": "UDException\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:48:14.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

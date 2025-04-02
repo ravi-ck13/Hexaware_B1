@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\UDException\UDException\bin\Debug\net8.0\UDException.exe
+C:\Users\Admin\source\repos\UDException\UDException\bin\Debug\net8.0\UDException.deps.json
+C:\Users\Admin\source\repos\UDException\UDException\bin\Debug\net8.0\UDException.runtimeconfig.json
+C:\Users\Admin\source\repos\UDException\UDException\bin\Debug\net8.0\UDException.dll
+C:\Users\Admin\source\repos\UDException\UDException\bin\Debug\net8.0\UDException.pdb
+C:\Users\Admin\source\repos\UDException\UDException\obj\Debug\net8.0\UDException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UDException\UDException\obj\Debug\net8.0\UDException.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UDException\UDException\obj\Debug\net8.0\UDException.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UDException\UDException\obj\Debug\net8.0\UDException.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UDException\UDException\obj\Debug\net8.0\UDException.dll
+C:\Users\Admin\source\repos\UDException\UDException\obj\Debug\net8.0\refint\UDException.dll
+C:\Users\Admin\source\repos\UDException\UDException\obj\Debug\net8.0\UDException.pdb
+C:\Users\Admin\source\repos\UDException\UDException\obj\Debug\net8.0\UDException.genruntimeconfig.cache
+C:\Users\Admin\source\repos\UDException\UDException\obj\Debug\net8.0\ref\UDException.dll

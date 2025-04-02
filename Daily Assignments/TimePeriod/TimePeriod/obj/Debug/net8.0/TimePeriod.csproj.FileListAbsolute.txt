@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\bin\Debug\net8.0\TimePeriod.exe
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\bin\Debug\net8.0\TimePeriod.deps.json
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\bin\Debug\net8.0\TimePeriod.runtimeconfig.json
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\bin\Debug\net8.0\TimePeriod.dll
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\bin\Debug\net8.0\TimePeriod.pdb
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\obj\Debug\net8.0\TimePeriod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\obj\Debug\net8.0\TimePeriod.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\obj\Debug\net8.0\TimePeriod.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\obj\Debug\net8.0\TimePeriod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\obj\Debug\net8.0\TimePeriod.dll
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\obj\Debug\net8.0\refint\TimePeriod.dll
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\obj\Debug\net8.0\TimePeriod.pdb
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\obj\Debug\net8.0\TimePeriod.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TimePeriod\TimePeriod\obj\Debug\net8.0\ref\TimePeriod.dll

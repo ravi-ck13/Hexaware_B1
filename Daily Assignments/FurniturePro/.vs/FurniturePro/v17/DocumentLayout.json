@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\FurniturePro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C79F6A55-5540-4E95-9321-C1793904DFB2}|FurniturePro\\FurniturePro.csproj|c:\\users\\admin\\source\\repos\\furniturepro\\furniturepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79F6A55-5540-4E95-9321-C1793904DFB2}|FurniturePro\\FurniturePro.csproj|solutionrelative:furniturepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79F6A55-5540-4E95-9321-C1793904DFB2}|FurniturePro\\FurniturePro.csproj|c:\\users\\admin\\source\\repos\\furniturepro\\furniturepro\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79F6A55-5540-4E95-9321-C1793904DFB2}|FurniturePro\\FurniturePro.csproj|solutionrelative:furniturepro\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79F6A55-5540-4E95-9321-C1793904DFB2}|FurniturePro\\FurniturePro.csproj|c:\\users\\admin\\source\\repos\\furniturepro\\furniturepro\\bookeshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79F6A55-5540-4E95-9321-C1793904DFB2}|FurniturePro\\FurniturePro.csproj|solutionrelative:furniturepro\\bookeshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79F6A55-5540-4E95-9321-C1793904DFB2}|FurniturePro\\FurniturePro.csproj|c:\\users\\admin\\source\\repos\\furniturepro\\furniturepro\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79F6A55-5540-4E95-9321-C1793904DFB2}|FurniturePro\\FurniturePro.csproj|solutionrelative:furniturepro\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bookeshelf.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FurniturePro\\FurniturePro\\Bookeshelf.cs",
+              "RelativeDocumentMoniker": "FurniturePro\\Bookeshelf.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FurniturePro\\FurniturePro\\Bookeshelf.cs",
+              "RelativeToolTip": "FurniturePro\\Bookeshelf.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:03:10.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chair.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FurniturePro\\FurniturePro\\Chair.cs",
+              "RelativeDocumentMoniker": "FurniturePro\\Chair.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FurniturePro\\FurniturePro\\Chair.cs",
+              "RelativeToolTip": "FurniturePro\\Chair.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:00:55.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FurniturePro\\FurniturePro\\Furniture.cs",
+              "RelativeDocumentMoniker": "FurniturePro\\Furniture.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FurniturePro\\FurniturePro\\Furniture.cs",
+              "RelativeToolTip": "FurniturePro\\Furniture.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:58:43.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FurniturePro\\FurniturePro\\Program.cs",
+              "RelativeDocumentMoniker": "FurniturePro\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FurniturePro\\FurniturePro\\Program.cs",
+              "RelativeToolTip": "FurniturePro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:58:24.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

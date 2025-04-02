@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\bin\Debug\net8.0\FurniturePro.exe
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\bin\Debug\net8.0\FurniturePro.deps.json
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\bin\Debug\net8.0\FurniturePro.runtimeconfig.json
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\bin\Debug\net8.0\FurniturePro.dll
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\bin\Debug\net8.0\FurniturePro.pdb
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\obj\Debug\net8.0\FurniturePro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\obj\Debug\net8.0\FurniturePro.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\obj\Debug\net8.0\FurniturePro.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\obj\Debug\net8.0\FurniturePro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\obj\Debug\net8.0\FurniturePro.dll
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\obj\Debug\net8.0\refint\FurniturePro.dll
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\obj\Debug\net8.0\FurniturePro.pdb
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\obj\Debug\net8.0\FurniturePro.genruntimeconfig.cache
+C:\Users\Admin\source\repos\FurniturePro\FurniturePro\obj\Debug\net8.0\ref\FurniturePro.dll
