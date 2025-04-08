@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\bin\Debug\net8.0\BankingSystem.Abstraction.exe
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\bin\Debug\net8.0\BankingSystem.Abstraction.deps.json
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\bin\Debug\net8.0\BankingSystem.Abstraction.runtimeconfig.json
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\bin\Debug\net8.0\BankingSystem.Abstraction.dll
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\bin\Debug\net8.0\BankingSystem.Abstraction.pdb
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\obj\Debug\net8.0\BankingSystem.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\obj\Debug\net8.0\BankingSystem.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\obj\Debug\net8.0\BankingSystem.Abstraction.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\obj\Debug\net8.0\BankingSystem.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\obj\Debug\net8.0\BankingSystem.Abstraction.dll
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\obj\Debug\net8.0\refint\BankingSystem.Abstraction.dll
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\obj\Debug\net8.0\BankingSystem.Abstraction.pdb
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\obj\Debug\net8.0\BankingSystem.Abstraction.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Abstraction\obj\Debug\net8.0\ref\BankingSystem.Abstraction.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\bin\Debug\net8.0\BankingSystem.Association.exe
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\bin\Debug\net8.0\BankingSystem.Association.deps.json
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\bin\Debug\net8.0\BankingSystem.Association.runtimeconfig.json
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\bin\Debug\net8.0\BankingSystem.Association.dll
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\bin\Debug\net8.0\BankingSystem.Association.pdb
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\obj\Debug\net8.0\BankingSystem.Association.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\obj\Debug\net8.0\BankingSystem.Association.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\obj\Debug\net8.0\BankingSystem.Association.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\obj\Debug\net8.0\BankingSystem.Association.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\obj\Debug\net8.0\BankingSystem.Association.dll
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\obj\Debug\net8.0\refint\BankingSystem.Association.dll
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\obj\Debug\net8.0\BankingSystem.Association.pdb
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\obj\Debug\net8.0\BankingSystem.Association.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.Association\obj\Debug\net8.0\ref\BankingSystem.Association.dll

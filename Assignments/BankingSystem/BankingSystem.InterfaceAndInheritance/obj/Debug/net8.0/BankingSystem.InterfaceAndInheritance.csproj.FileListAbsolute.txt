@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\bin\Debug\net8.0\BankingSystem.InterfaceAndInheritance.exe
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\bin\Debug\net8.0\BankingSystem.InterfaceAndInheritance.deps.json
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\bin\Debug\net8.0\BankingSystem.InterfaceAndInheritance.runtimeconfig.json
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\bin\Debug\net8.0\BankingSystem.InterfaceAndInheritance.dll
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\bin\Debug\net8.0\BankingSystem.InterfaceAndInheritance.pdb
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\obj\Debug\net8.0\BankingSystem.InterfaceAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\obj\Debug\net8.0\BankingSystem.InterfaceAndInheritance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\obj\Debug\net8.0\BankingSystem.InterfaceAndInheritance.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\obj\Debug\net8.0\BankingSystem.InterfaceAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\obj\Debug\net8.0\BankingSystem.InterfaceAndInheritance.dll
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\obj\Debug\net8.0\refint\BankingSystem.InterfaceAndInheritance.dll
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\obj\Debug\net8.0\BankingSystem.InterfaceAndInheritance.pdb
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\obj\Debug\net8.0\BankingSystem.InterfaceAndInheritance.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BankingSystem\BankingSystem.InterfaceAndInheritance\obj\Debug\net8.0\ref\BankingSystem.InterfaceAndInheritance.dll

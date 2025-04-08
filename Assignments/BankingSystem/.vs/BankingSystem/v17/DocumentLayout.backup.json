@@ -1,0 +1,942 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\app\\bankapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|solutionrelative:bankingsystem.database\\app\\bankapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\serviceimpl\\bankserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|solutionrelative:bankingsystem.database\\serviceimpl\\bankserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\service\\icustomerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|solutionrelative:bankingsystem.database\\service\\icustomerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\serviceimpl\\customerserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|solutionrelative:bankingsystem.database\\serviceimpl\\customerserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\service\\ibankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|solutionrelative:bankingsystem.database\\service\\ibankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\bean\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|solutionrelative:bankingsystem.database\\bean\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\exceptions\\overdraftlimitexceededexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|solutionrelative:bankingsystem.database\\exceptions\\overdraftlimitexceededexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\exceptions\\insufficientfundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|solutionrelative:bankingsystem.database\\exceptions\\insufficientfundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\exceptions\\invalidaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|solutionrelative:bankingsystem.database\\exceptions\\invalidaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|solutionrelative:bankingsystem.database\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\repositoryimpl\\bankrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|solutionrelative:bankingsystem.database\\repositoryimpl\\bankrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\bean\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|solutionrelative:bankingsystem.database\\bean\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\bean\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|solutionrelative:bankingsystem.database\\bean\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\bean\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|solutionrelative:bankingsystem.database\\bean\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\repositoryimpl\\ibankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.DatabaseConnectivity.csproj|solutionrelative:bankingsystem.database\\repositoryimpl\\ibankrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\app\\bankapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\app\\bankapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|solutionrelative:bankingsystem.oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\bean\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|solutionrelative:bankingsystem.database\\bean\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.database\\bean\\zerobalanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE417D95-A937-4FD2-BE9E-B3F077D8AA19}|BankingSystem.Database\\BankingSystem.Database.csproj|solutionrelative:bankingsystem.database\\bean\\zerobalanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\app\\bankserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\app\\bankserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\customernamecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\customernamecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\bean\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\bean\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\app\\customerserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\app\\customerserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\service\\icustomerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\service\\icustomerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\bean\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\bean\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\bean\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\bean\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\overdraftlimitexceededexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\overdraftlimitexceededexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\invalidaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\invalidaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\insufficientfundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\insufficientfundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\service\\ibankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\service\\ibankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\bean\\zerobalanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\bean\\zerobalanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.interfaceandinheritance\\bean\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6584FC60-B4DC-41F6-850C-AADB48965798}|BankingSystem.InterfaceAndInheritance\\BankingSystem.InterfaceAndInheritance.csproj|solutionrelative:bankingsystem.interfaceandinheritance\\bean\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93554CB-44EE-4B54-9A0A-062DA6131491}|BankingSystem.Association\\BankingSystem.Association.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.association\\bankapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93554CB-44EE-4B54-9A0A-062DA6131491}|BankingSystem.Association\\BankingSystem.Association.csproj|solutionrelative:bankingsystem.association\\bankapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93554CB-44EE-4B54-9A0A-062DA6131491}|BankingSystem.Association\\BankingSystem.Association.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.association\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93554CB-44EE-4B54-9A0A-062DA6131491}|BankingSystem.Association\\BankingSystem.Association.csproj|solutionrelative:bankingsystem.association\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93554CB-44EE-4B54-9A0A-062DA6131491}|BankingSystem.Association\\BankingSystem.Association.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.association\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93554CB-44EE-4B54-9A0A-062DA6131491}|BankingSystem.Association\\BankingSystem.Association.csproj|solutionrelative:bankingsystem.association\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|solutionrelative:bankingsystem.abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93554CB-44EE-4B54-9A0A-062DA6131491}|BankingSystem.Association\\BankingSystem.Association.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.association\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93554CB-44EE-4B54-9A0A-062DA6131491}|BankingSystem.Association\\BankingSystem.Association.csproj|solutionrelative:bankingsystem.association\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.abstraction\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|solutionrelative:bankingsystem.abstraction\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.abstraction\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|solutionrelative:bankingsystem.abstraction\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.abstraction\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|solutionrelative:bankingsystem.abstraction\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.abstraction\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF58574-342D-4F88-B575-C0EA447C2122}|BankingSystem.Abstraction\\BankingSystem.Abstraction.csproj|solutionrelative:bankingsystem.abstraction\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.oop\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|solutionrelative:bankingsystem.oop\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.oop\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|solutionrelative:bankingsystem.oop\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.oop\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|solutionrelative:bankingsystem.oop\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.oop\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|solutionrelative:bankingsystem.oop\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.oop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF3A605-64D3-4B43-B94B-C922505158BC}|BankingSystem.OOP\\BankingSystem.OOP.csproj|solutionrelative:bankingsystem.oop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.controlstructures\\task_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|solutionrelative:bankingsystem.controlstructures\\task_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.controlstructures\\task_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|solutionrelative:bankingsystem.controlstructures\\task_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.controlstructures\\task_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|solutionrelative:bankingsystem.controlstructures\\task_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.controlstructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|solutionrelative:bankingsystem.controlstructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.controlstructures\\task_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|solutionrelative:bankingsystem.controlstructures\\task_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.controlstructures\\task_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|solutionrelative:bankingsystem.controlstructures\\task_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem.controlstructures\\task_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3422C5ED-0A33-4962-812E-364556FBD351}|BankingSystem.ControlStructures\\BankingSystem.ControlStructures.csproj|solutionrelative:bankingsystem.controlstructures\\task_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86ED6E0-477E-4844-A2A5-0254FDBE94C5}|BankingSystem\\BankingSystem.csproj|c:\\users\\admin\\source\\repos\\bankingsystem\\bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86ED6E0-477E-4844-A2A5-0254FDBE94C5}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankServiceProviderImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\ServiceImpl\\BankServiceProviderImpl.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\ServiceImpl\\BankServiceProviderImpl.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\ServiceImpl\\BankServiceProviderImpl.cs",
+              "RelativeToolTip": "BankingSystem.Database\\ServiceImpl\\BankServiceProviderImpl.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv7YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:48:48.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankApp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\App\\BankApp.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\App\\BankApp.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\App\\BankApp.cs",
+              "RelativeToolTip": "BankingSystem.Database\\App\\BankApp.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAUwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:57:23.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerServiceProviderImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\ServiceImpl\\CustomerServiceProviderImpl.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\ServiceImpl\\CustomerServiceProviderImpl.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\ServiceImpl\\CustomerServiceProviderImpl.cs",
+              "RelativeToolTip": "BankingSystem.Database\\ServiceImpl\\CustomerServiceProviderImpl.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwD8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:34:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Service\\ICustomerServiceProvider.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Service\\ICustomerServiceProvider.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Service\\ICustomerServiceProvider.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Service\\ICustomerServiceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:25:21.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBankServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Service\\IBankServiceProvider.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Service\\IBankServiceProvider.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Service\\IBankServiceProvider.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Service\\IBankServiceProvider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:26:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Bean\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\Account.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Bean\\Account.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:16:20.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvalidAccountException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Exceptions\\InvalidAccountException.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Exceptions\\InvalidAccountException.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Exceptions\\InvalidAccountException.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Exceptions\\InvalidAccountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:32:48.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InsufficientFundException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Exceptions\\InsufficientFundException.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Exceptions\\InsufficientFundException.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Exceptions\\InsufficientFundException.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Exceptions\\InsufficientFundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:33:37.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OverDraftLimitExceededException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Exceptions\\OverDraftLimitExceededException.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Exceptions\\OverDraftLimitExceededException.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Exceptions\\OverDraftLimitExceededException.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Exceptions\\OverDraftLimitExceededException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:34:07.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Bean\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\SavingsAccount.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Bean\\SavingsAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:21:35.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Bean\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\CurrentAccount.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Bean\\CurrentAccount.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:22:29.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Util\\DBUtil.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Util\\DBUtil.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Util\\DBUtil.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Util\\DBUtil.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwsAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:09:22.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\RepositoryImpl\\BankRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\RepositoryImpl\\BankRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\RepositoryImpl\\BankRepositoryImpl.cs",
+              "RelativeToolTip": "BankingSystem.Database\\RepositoryImpl\\BankRepositoryImpl.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAmwMQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:48:14.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Bean\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\Transaction.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Bean\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:19:46.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBankRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\RepositoryImpl\\IBankRepository.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\RepositoryImpl\\IBankRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\RepositoryImpl\\IBankRepository.cs",
+              "RelativeToolTip": "BankingSystem.Database\\RepositoryImpl\\IBankRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:44:49.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\Customer.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Bean\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\Customer.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Bean\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:14:37.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\Program.cs",
+              "RelativeDocumentMoniker": "BankingSystem.OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\Program.cs",
+              "RelativeToolTip": "BankingSystem.OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:09:01.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BankApp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\App\\BankApp.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\App\\BankApp.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\App\\BankApp.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\App\\BankApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:39:52.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ZeroBalanceAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\ZeroBalanceAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Database\\Bean\\ZeroBalanceAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Database\\Bean\\ZeroBalanceAccount.cs",
+              "RelativeToolTip": "BankingSystem.Database\\Bean\\ZeroBalanceAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:23:05.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerNameComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\CustomerNameComparer.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\CustomerNameComparer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\CustomerNameComparer.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\CustomerNameComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:12:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BankServiceProviderImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\App\\BankServiceProviderImpl.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\App\\BankServiceProviderImpl.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\App\\BankServiceProviderImpl.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\App\\BankServiceProviderImpl.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwJsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:54:39.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICustomerServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Service\\ICustomerServiceProvider.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\Service\\ICustomerServiceProvider.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Service\\ICustomerServiceProvider.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\Service\\ICustomerServiceProvider.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:43:47.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerServiceProviderImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\App\\CustomerServiceProviderImpl.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\App\\CustomerServiceProviderImpl.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\App\\CustomerServiceProviderImpl.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\App\\CustomerServiceProviderImpl.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:54:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\Bean\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\Account.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\Bean\\Account.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwFcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:48:48.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\Bean\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\SavingsAccount.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\Bean\\SavingsAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:49:28.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\Bean\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\CurrentAccount.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\Bean\\CurrentAccount.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:50:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OverDraftLimitExceededException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\OverDraftLimitExceededException.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\OverDraftLimitExceededException.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\OverDraftLimitExceededException.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\OverDraftLimitExceededException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:52:31.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InvalidAccountException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\InvalidAccountException.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\InvalidAccountException.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\InvalidAccountException.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\InvalidAccountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:52:05.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InsufficientFundException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\InsufficientFundException.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\InsufficientFundException.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\InsufficientFundException.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\InsufficientFundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:51:30.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBankServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Service\\IBankServiceProvider.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\Service\\IBankServiceProvider.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Service\\IBankServiceProvider.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\Service\\IBankServiceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:45:15.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ZeroBalanceAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\ZeroBalanceAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\Bean\\ZeroBalanceAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\ZeroBalanceAccount.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\Bean\\ZeroBalanceAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:51:02.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\Customer.cs",
+              "RelativeDocumentMoniker": "BankingSystem.InterfaceAndInheritance\\Bean\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.InterfaceAndInheritance\\Bean\\Customer.cs",
+              "RelativeToolTip": "BankingSystem.InterfaceAndInheritance\\Bean\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:56:35.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BankApp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Association\\BankApp.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Association\\BankApp.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Association\\BankApp.cs",
+              "RelativeToolTip": "BankingSystem.Association\\BankApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:38:37.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Association\\Bank.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Association\\Bank.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Association\\Bank.cs",
+              "RelativeToolTip": "BankingSystem.Association\\Bank.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAuwIYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:42:14.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Association\\Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Association\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Association\\Account.cs",
+              "RelativeToolTip": "BankingSystem.Association\\Account.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:41:06.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Association\\Customer.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Association\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Association\\Customer.cs",
+              "RelativeToolTip": "BankingSystem.Association\\Customer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:40:25.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\Bank.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Abstraction\\Bank.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\Bank.cs",
+              "RelativeToolTip": "BankingSystem.Abstraction\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:20:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Abstraction\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\CurrentAccount.cs",
+              "RelativeToolTip": "BankingSystem.Abstraction\\CurrentAccount.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:18:59.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Abstraction\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\SavingsAccount.cs",
+              "RelativeToolTip": "BankingSystem.Abstraction\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:18:22.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Abstraction\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\BankAccount.cs",
+              "RelativeToolTip": "BankingSystem.Abstraction\\BankAccount.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:17:03.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "BankingSystem.Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.Abstraction\\Program.cs",
+              "RelativeToolTip": "BankingSystem.Abstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:15:26.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.OOP\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\CurrentAccount.cs",
+              "RelativeToolTip": "BankingSystem.OOP\\CurrentAccount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:32:45.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem.OOP\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\SavingsAccount.cs",
+              "RelativeToolTip": "BankingSystem.OOP\\SavingsAccount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:31:54.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\Bank.cs",
+              "RelativeDocumentMoniker": "BankingSystem.OOP\\Bank.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\Bank.cs",
+              "RelativeToolTip": "BankingSystem.OOP\\Bank.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:16:09.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem.OOP\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\Account.cs",
+              "RelativeToolTip": "BankingSystem.OOP\\Account.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:58:51.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\Customer.cs",
+              "RelativeDocumentMoniker": "BankingSystem.OOP\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.OOP\\Customer.cs",
+              "RelativeToolTip": "BankingSystem.OOP\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:47:34.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Task_6.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_6.cs",
+              "RelativeDocumentMoniker": "BankingSystem.ControlStructures\\Task_6.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_6.cs",
+              "RelativeToolTip": "BankingSystem.ControlStructures\\Task_6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:30:53.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Task_5.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_5.cs",
+              "RelativeDocumentMoniker": "BankingSystem.ControlStructures\\Task_5.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_5.cs",
+              "RelativeToolTip": "BankingSystem.ControlStructures\\Task_5.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:20:07.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Task_4.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_4.cs",
+              "RelativeDocumentMoniker": "BankingSystem.ControlStructures\\Task_4.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_4.cs",
+              "RelativeToolTip": "BankingSystem.ControlStructures\\Task_4.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:10:46.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Task_3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_3.cs",
+              "RelativeDocumentMoniker": "BankingSystem.ControlStructures\\Task_3.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_3.cs",
+              "RelativeToolTip": "BankingSystem.ControlStructures\\Task_3.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:56:07.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Task_1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_1.cs",
+              "RelativeDocumentMoniker": "BankingSystem.ControlStructures\\Task_1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_1.cs",
+              "RelativeToolTip": "BankingSystem.ControlStructures\\Task_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:10:35.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Task_2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_2.cs",
+              "RelativeDocumentMoniker": "BankingSystem.ControlStructures\\Task_2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Task_2.cs",
+              "RelativeToolTip": "BankingSystem.ControlStructures\\Task_2.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwGQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:01:05.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Program.cs",
+              "RelativeDocumentMoniker": "BankingSystem.ControlStructures\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem.ControlStructures\\Program.cs",
+              "RelativeToolTip": "BankingSystem.ControlStructures\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:29:30.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BankingSystem\\BankingSystem\\Program.cs",
+              "RelativeToolTip": "BankingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:24:53.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
