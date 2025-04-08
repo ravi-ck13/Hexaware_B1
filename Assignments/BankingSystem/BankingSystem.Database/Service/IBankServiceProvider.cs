@@ -22,10 +22,10 @@ namespace BankingSystem.DatabaseConnectivity.Service
         // Calculates interest for all applicable accounts (like savings)
         void CalculateInterest();
 
-        // ✅ New Method: Returns the current balance of an account
+        //  New Method: Returns the current balance of an account
         decimal GetBalance(int accountId);
 
-        // ✅ New Method: Transfers funds between accounts
+        //  New Method: Transfers funds between accounts
         void TransferFunds(int fromAccountId, int toAccountId, decimal amount);
     }
 }

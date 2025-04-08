@@ -13,7 +13,7 @@ namespace BankingSystem.DatabaseConnectivity.Bean
 
         // Properties
         public int AccountNumber { get; set; }
-        public decimal Balance { get; set; } // Changed from float to decimal
+        public decimal Balance { get; set; } 
         public string AccountType { get; set; }
         public Customer Customer { get; set; }
 

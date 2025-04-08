@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSystem", "BankingSystem\BankingSystem.csproj", "{D86ED6E0-477E-4844-A2A5-0254FDBE94C5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSystem.ControlStructures", "BankingSystem.ControlStructures\BankingSystem.ControlStructures.csproj", "{3422C5ED-0A33-4962-812E-364556FBD351}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSystem.OOP", "BankingSystem.OOP\BankingSystem.OOP.csproj", "{AFF3A605-64D3-4B43-B94B-C922505158BC}"
@@ -23,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D86ED6E0-477E-4844-A2A5-0254FDBE94C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D86ED6E0-477E-4844-A2A5-0254FDBE94C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D86ED6E0-477E-4844-A2A5-0254FDBE94C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D86ED6E0-477E-4844-A2A5-0254FDBE94C5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3422C5ED-0A33-4962-812E-364556FBD351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3422C5ED-0A33-4962-812E-364556FBD351}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3422C5ED-0A33-4962-812E-364556FBD351}.Release|Any CPU.ActiveCfg = Release|Any CPU

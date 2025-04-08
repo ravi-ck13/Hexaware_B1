@@ -130,12 +130,12 @@
 
                 if (isValidInput && customerAccounts.ContainsKey(accountNumber))
                 {
-                    Console.WriteLine($"✅ Your account balance: ${customerAccounts[accountNumber]:F2}");
+                    Console.WriteLine($" Your account balance: ${customerAccounts[accountNumber]:F2}");
                     break; // Exit loop when valid account is found
                 }
                 else
                 {
-                    Console.WriteLine("❌ Invalid account number! Please try again.");
+                    Console.WriteLine(" Invalid account number! Please try again.");
                 }
             }
 
