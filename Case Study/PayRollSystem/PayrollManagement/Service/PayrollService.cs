@@ -19,7 +19,7 @@ namespace PayrollManagement.Service
             _payrollServiceRepository = new PayrollServiceRepository();
         }
 
-        // 1. Get Payroll By Id
+       
         public void GetPayrollById()
         {
             Console.WriteLine("Enter the payrollId:");
@@ -31,7 +31,6 @@ namespace PayrollManagement.Service
             }
         }
 
-        // 2. Get Payrolls for a specific employee
         public void GetPayrollsForEmployee()
         {
             Console.WriteLine("Enter the EmployeeId:");
@@ -43,7 +42,7 @@ namespace PayrollManagement.Service
             }
         }
 
-        // 3. Get Payrolls in a given date range
+   
         public void GetPayrollsForPeriod()
         {
             Console.WriteLine("Enter the startDate:");
@@ -57,7 +56,7 @@ namespace PayrollManagement.Service
             }
         }
 
-        // 4. Generate Payroll for an employee for a date range
+      
         public void GeneratePayroll()
         {
             Console.WriteLine("Enter the EmployeeId:");
@@ -86,33 +85,31 @@ namespace PayrollManagement.Service
             }
         }
 
-        // 5. Calculate Gross Salary
+       
         public decimal CalculateGrossSalary(decimal basic, decimal overtime)
         {
             return basic + overtime;
         }
 
-        // 6. Calculate Net Salary
         public decimal CalculateNetSalary(decimal gross, decimal deductions)
         {
             return gross - deductions;
         }
 
-        // 7. Calculate salary for an employee object (used in unit test)
+       
         public decimal CalculateSalary(Employee employee)
         {
             if (employee == null)
                 throw new ArgumentException("Employee cannot be null");
 
-            // Example salary calculation logic (customize this as per your model)
+      
             return employee.BasicSalary + employee.OvertimePay - employee.Deductions;
         }
 
 
-        // 8. Process payroll for multiple employees
         public void ProcessPayrollBatch(List<int> employeeIds, DateTime startDate, DateTime endDate)
         {
-            // Validate the input list
+        
             if (employeeIds == null || employeeIds.Count == 0)
             {
                 throw new PayrollGenerationException("No employee IDs provided for batch processing.");
@@ -120,7 +117,7 @@ namespace PayrollManagement.Service
 
             Console.WriteLine($"Starting payroll batch processing for {employeeIds.Count} employees between {startDate.ToShortDateString()} and {endDate.ToShortDateString()}...\n");
 
-            // Process payroll for each employee
+         
             foreach (int employeeId in employeeIds)
             {
                 try
@@ -144,7 +141,7 @@ namespace PayrollManagement.Service
                     Console.WriteLine($" Error processing payroll for Employee ID {employeeId}: {ex.Message}");
                 }
 
-                Console.WriteLine(); // spacing between employees
+                Console.WriteLine(); 
             }
 
             Console.WriteLine(" Payroll batch processing completed.\n");

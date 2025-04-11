@@ -30,6 +30,7 @@ namespace PayrollManagement.Service
         public void GetEmployeeById()
         {
             Console.WriteLine("Enter  EmployeeID::");
+
             int EmployeeID = int.Parse(Console.ReadLine());
             var getEmployee = _employeeServiceRepository.GetEmployeeById(EmployeeID);
             foreach (var employee in getEmployee)

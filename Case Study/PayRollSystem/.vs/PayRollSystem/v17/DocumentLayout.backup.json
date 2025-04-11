@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "F:\\Hexaware\\Case Study\\PayRollSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\repository\\payrollservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\payrollservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\service\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{467C73B8-71A0-4A88-8AFC-71977021ED1D}|PayXpert.Tests\\PayXpert.Tests.csproj|f:\\hexaware\\case study\\payrollsystem\\payxpert.tests\\payrolltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{467C73B8-71A0-4A88-8AFC-71977021ED1D}|PayXpert.Tests\\PayXpert.Tests.csproj|solutionrelative:payxpert.tests\\payrolltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{467C73B8-71A0-4A88-8AFC-71977021ED1D}|PayXpert.Tests\\PayXpert.Tests.csproj|f:\\hexaware\\case study\\payrollsystem\\payxpert.tests\\payrolltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467C73B8-71A0-4A88-8AFC-71977021ED1D}|PayXpert.Tests\\PayXpert.Tests.csproj|solutionrelative:payxpert.tests\\payrolltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\exceptions\\payrollgenerationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\employeeservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\service\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\service\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\repository\\payrollservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\payrollservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|f:\\hexaware\\case study\\payrollsystem\\payrollmanagement\\utility\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -130,7 +130,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TaxServiceRepository.cs",
               "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\TaxServiceRepository.cs",
               "RelativeDocumentMoniker": "PayrollManagement\\Repository\\TaxServiceRepository.cs",
@@ -139,24 +139,31 @@
               "ViewState": "AgIAAHkAAAAAAAAAAAAcwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T09:31:47.747Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PayrollGenerationException.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
+              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
+              "RelativeToolTip": "PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:51:20.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PayrollTests.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayXpert.Tests\\PayrollTests.cs",
-              "RelativeDocumentMoniker": "PayXpert.Tests\\PayrollTests.cs",
-              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayXpert.Tests\\PayrollTests.cs",
-              "RelativeToolTip": "PayXpert.Tests\\PayrollTests.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFcAAAAFAAAAAAAAAA==",
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Service\\EmployeeService.cs",
+              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "PayrollManagement\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:17:14.409Z",
+              "WhenOpened": "2025-04-05T05:42:24.197Z",
               "EditorCaption": ""
             },
             {
@@ -167,27 +174,56 @@
               "RelativeDocumentMoniker": "PayrollManagement\\Service\\PayrollService.cs",
               "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Service\\PayrollService.cs",
               "RelativeToolTip": "PayrollManagement\\Service\\PayrollService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAqwF4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswF4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T06:16:59.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Program.cs",
-              "RelativeDocumentMoniker": "PayrollManagement\\Program.cs",
-              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Program.cs",
-              "RelativeToolTip": "PayrollManagement\\Program.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAwwG4AAAA1AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "FinancialRecordServiceRepository.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
+              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T03:54:31.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T09:34:14.193Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PayrollServiceRepository.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\PayrollServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\PayrollServiceRepository.cs",
+              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\PayrollServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\PayrollServiceRepository.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:29:21.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\model\\Employee.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\model\\Employee.cs",
+              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\model\\Employee.cs",
+              "RelativeToolTip": "PayrollManagement\\model\\Employee.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwFQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:09:41.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IPayrollService.cs",
               "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Service\\IPayrollService.cs",
               "RelativeDocumentMoniker": "PayrollManagement\\Service\\IPayrollService.cs",
@@ -201,58 +237,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\model\\Employee.cs",
-              "RelativeDocumentMoniker": "PayrollManagement\\model\\Employee.cs",
-              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\model\\Employee.cs",
-              "RelativeToolTip": "PayrollManagement\\model\\Employee.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAqwFQAAABIAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Program.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Program.cs",
+              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Program.cs",
+              "RelativeToolTip": "PayrollManagement\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowG4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T04:09:41.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PayrollGenerationException.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
-              "RelativeDocumentMoniker": "PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
-              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
-              "RelativeToolTip": "PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:51:20.88Z",
+              "WhenOpened": "2025-04-05T03:54:31.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FinancialRecordServiceRepository.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
-              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
-              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
-              "RelativeToolTip": "PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Title": "PayrollTests.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayXpert.Tests\\PayrollTests.cs",
+              "RelativeDocumentMoniker": "PayXpert.Tests\\PayrollTests.cs",
+              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayXpert.Tests\\PayrollTests.cs",
+              "RelativeToolTip": "PayXpert.Tests\\PayrollTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T09:34:14.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T18:17:14.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Service\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "PayrollManagement\\Service\\EmployeeService.cs",
-              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Service\\EmployeeService.cs",
-              "RelativeToolTip": "PayrollManagement\\Service\\EmployeeService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:42:24.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EmployeeServiceRepository.cs",
               "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\EmployeeServiceRepository.cs",
               "RelativeDocumentMoniker": "PayrollManagement\\Repository\\EmployeeServiceRepository.cs",
@@ -260,25 +269,11 @@
               "RelativeToolTip": "PayrollManagement\\Repository\\EmployeeServiceRepository.cs",
               "ViewState": "AgIAAKYAAAAAAAAAAAAswK8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:30:01.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T07:30:01.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PayrollServiceRepository.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\PayrollServiceRepository.cs",
-              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\PayrollServiceRepository.cs",
-              "ToolTip": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Repository\\PayrollServiceRepository.cs",
-              "RelativeToolTip": "PayrollManagement\\Repository\\PayrollServiceRepository.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAwwIsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T09:29:21.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FinancialRecordService.cs",
               "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Service\\FinancialRecordService.cs",
               "RelativeDocumentMoniker": "PayrollManagement\\Service\\FinancialRecordService.cs",
@@ -286,12 +281,11 @@
               "RelativeToolTip": "PayrollManagement\\Service\\FinancialRecordService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwDYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:33:56.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T06:33:56.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "TaxService.cs",
               "DocumentMoniker": "F:\\Hexaware\\Case Study\\PayRollSystem\\PayrollManagement\\Service\\TaxService.cs",
               "RelativeDocumentMoniker": "PayrollManagement\\Service\\TaxService.cs",
@@ -299,8 +293,7 @@
               "RelativeToolTip": "PayrollManagement\\Service\\TaxService.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAIwEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:25:55.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T06:25:55.172Z"
             },
             {
               "$type": "Document",
@@ -312,8 +305,7 @@
               "RelativeToolTip": "PayrollManagement\\Repository\\IFinancialRecordServiceRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:29:26.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T06:29:26.474Z"
             },
             {
               "$type": "Document",
@@ -325,8 +317,7 @@
               "RelativeToolTip": "PayrollManagement\\Repository\\IPayrollServiceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:14:18.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T06:14:18.204Z"
             },
             {
               "$type": "Document",
@@ -338,8 +329,7 @@
               "RelativeToolTip": "PayrollManagement\\Utility\\App.Config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-05T11:15:49.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T11:15:49.299Z"
             },
             {
               "$type": "Document",
@@ -351,8 +341,7 @@
               "RelativeToolTip": "PayrollManagement\\Utility\\DBConnUtil.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:33:04.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T07:33:04.674Z"
             },
             {
               "$type": "Document",
@@ -364,8 +353,7 @@
               "RelativeToolTip": "PayrollManagement\\Repository\\ITaxServiceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:21:05.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T06:21:05.835Z"
             },
             {
               "$type": "Document",
@@ -377,8 +365,7 @@
               "RelativeToolTip": "PayrollManagement\\Repository\\IEmployeeServiceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:38:22.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T05:38:22.172Z"
             },
             {
               "$type": "Document",
@@ -390,8 +377,7 @@
               "RelativeToolTip": "PayrollManagement\\model\\FinancialRecord.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:22:05.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T05:22:05.764Z"
             },
             {
               "$type": "Document",
@@ -403,8 +389,7 @@
               "RelativeToolTip": "PayrollManagement\\Service\\IEmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:36:36.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T06:36:36.402Z"
             },
             {
               "$type": "Document",
@@ -416,8 +401,7 @@
               "RelativeToolTip": "PayrollManagement\\Service\\IFinancialRecordService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:44:13.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T06:44:13.824Z"
             },
             {
               "$type": "Document",
@@ -429,8 +413,7 @@
               "RelativeToolTip": "PayrollManagement\\Service\\ITaxService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:43:17.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T06:43:17.427Z"
             },
             {
               "$type": "Document",
@@ -442,8 +425,7 @@
               "RelativeToolTip": "PayrollManagement\\model\\Payroll.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:19:39.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T05:19:39.541Z"
             },
             {
               "$type": "Document",
@@ -455,8 +437,7 @@
               "RelativeToolTip": "PayrollManagement\\Exceptions\\EmployeeNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:50:40.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T05:50:40.033Z"
             },
             {
               "$type": "Document",
@@ -468,8 +449,7 @@
               "RelativeToolTip": "PayrollManagement\\Exceptions\\InvalidInputException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:58:03.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T05:58:03.753Z"
             },
             {
               "$type": "Document",
@@ -481,8 +461,7 @@
               "RelativeToolTip": "PayrollManagement\\Exceptions\\FinancialRecordException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:55:34.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T05:55:34.036Z"
             },
             {
               "$type": "Document",
@@ -494,8 +473,7 @@
               "RelativeToolTip": "PayrollManagement\\Exceptions\\TaxCalculationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:52:01.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T05:52:01.555Z"
             },
             {
               "$type": "Document",
@@ -507,8 +485,7 @@
               "RelativeToolTip": "PayrollManagement\\model\\Tax.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAmwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T05:23:07.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T05:23:07.432Z"
             }
           ]
         }

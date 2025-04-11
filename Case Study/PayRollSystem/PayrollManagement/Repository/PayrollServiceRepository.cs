@@ -51,7 +51,7 @@ namespace PayrollManagement.Repository
                     }
                     else
                     {
-                        // If no records found, throw an exception
+                        
                         throw new PayrollGenerationException("Payroll not generated for the specified PayrollID.");
                     }
                     cmd.Parameters.Clear();
@@ -70,49 +70,53 @@ namespace PayrollManagement.Repository
         public List<Payroll> GetPayrollsForEmployee(int employeeId)
         {
             List<Payroll> payrollsList = new List<Payroll>();
+
             try
             {
                 using (SqlConnection sqlconnection = new SqlConnection(connectionString))
                 {
-                    cmd.CommandText = "Select *from Payroll where Employee_ID=@EmployeeID";
-                    cmd.Parameters.AddWithValue("@EmployeeID", employeeId);
-                    cmd.Connection = sqlconnection;
-                    sqlconnection.Open();
-                    SqlDataReader reader = cmd.ExecuteReader();
-                    if (reader.Read())
+                    using (SqlCommand cmd = new SqlCommand("SELECT * FROM Payroll WHERE Employee_ID = @EmployeeID", sqlconnection))
                     {
-                        while (reader.Read())
+                        cmd.Parameters.AddWithValue("@EmployeeID", employeeId);
+
+                        sqlconnection.Open();
+                        using (SqlDataReader reader = cmd.ExecuteReader())
                         {
-                            Payroll payroll = new Payroll();
-                            payroll.PayrollID = (int)reader["Payroll_ID"];
-                            payroll.EmployeeID = (int)reader["Employee_ID"];
-                            payroll.PayPeriodEndDate = (DateTime)reader["Pay_Period_End_Date"];
-                            payroll.BasicSalary = (decimal)reader["Basic_Salary"];
-                            payroll.OvertimePay = (decimal)reader["Overtime_Pay"];
-                            payroll.Deductions = (decimal)reader["Deductions"];
-                            payroll.NetSalary = (decimal)reader["Net_Salary"];
-                            payrollsList.Add(payroll);
+                            while (reader.Read())
+                            {
+                                Payroll payroll = new Payroll
+                                {
+                                    PayrollID = Convert.ToInt32(reader["Payroll_ID"]),
+                                    EmployeeID = Convert.ToInt32(reader["Employee_ID"]),
+                                    PayPeriodEndDate = Convert.ToDateTime(reader["Pay_Period_End_Date"]),
+                                    BasicSalary = Convert.ToDecimal(reader["Basic_Salary"]),
+                                    OvertimePay = Convert.ToDecimal(reader["Overtime_Pay"]),
+                                    Deductions = Convert.ToDecimal(reader["Deductions"]),
+                                    NetSalary = Convert.ToDecimal(reader["Net_Salary"])
+                                };
+                                payrollsList.Add(payroll);
+                            }
+                        }
+
+                        if (payrollsList.Count == 0)
+                        {
+                            throw new PayrollGenerationException("No payroll records found for the specified Employee ID.");
                         }
                     }
-                    else
-                    {
-                        // If no records found, throw an exception
-                        throw new PayrollGenerationException("Payroll not generated for the specified EmployeeID.");
-                    }
-                    cmd.Parameters.Clear();
-
                 }
-            }
-            catch (SqlException ex)
-            {
-                Console.WriteLine("DataBaseConnection failed" + ex.Message);
             }
             catch (PayrollGenerationException ex)
             {
                 Console.WriteLine("Payroll generation failed: " + ex.Message);
             }
-            return (payrollsList);
+            catch (SqlException ex)
+            {
+                Console.WriteLine("Database connection failed: " + ex.Message);
+            }
+
+            return payrollsList;
         }
+
         public List<Payroll> GetPayrollsForPeriod(DateTime startDate, DateTime endDate)
         {
             List<Payroll> payrollsListForPeriod = new List<Payroll>();

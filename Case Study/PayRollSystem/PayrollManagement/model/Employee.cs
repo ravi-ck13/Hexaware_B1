@@ -8,7 +8,7 @@ namespace PayrollManagement.model
 {
     public class Employee
     {
-        // Basic properties
+      
         public int EmployeeID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -20,12 +20,12 @@ namespace PayrollManagement.model
         public string Position { get; set; }
         public DateTime JoiningDate { get; set; }
 
-        // Needed for salary calculation
+
         public decimal BasicSalary { get; set; }
-        public decimal OvertimePay { get; set; }      // ✅ renamed from "Overtime"
+        public decimal OvertimePay { get; set; }     
         public decimal Deductions { get; set; }
 
-        // Optional TerminationDate
+      
         private DateTime? _terminationDate;
         public DateTime? TerminationDate
         {
@@ -66,7 +66,7 @@ namespace PayrollManagement.model
             OvertimePay = overtime;
         }
 
-        // Calculate age from DOB
+
         public int CalculateAge()
         {
             DateTime today = DateTime.Today;
@@ -76,7 +76,7 @@ namespace PayrollManagement.model
             return age;
         }
 
-        // Override ToString() for displaying details
+       
         public override string ToString()
         {
             return $"EmployeeID::{EmployeeID}\t FirstName::{FirstName}\t LastName::{LastName}\t DateOfBirth::{DateOfBirth.ToShortDateString()}\t " +
