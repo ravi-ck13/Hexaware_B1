@@ -3,42 +3,6 @@
   "WorkspaceRootPath": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\adoptioneventdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\adoptioneventdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\adoptionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\adoptionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\iadoptioneventdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\iadoptioneventdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\main\\exceptiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\main\\exceptiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\petdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\petdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\donationdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\donationdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\ipetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\ipetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\itemdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\itemdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\util\\dbpropertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\util\\dbpropertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,8 +11,76 @@
       "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\adoptionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\adoptionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\main\\exceptiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\main\\exceptiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\exception\\adoptionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\exception\\adoptionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\petshelter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\petshelter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\itemdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\itemdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\iadoptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\iadoptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\cashdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\cashdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\petdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\petdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\ipetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\ipetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\idonationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\idonationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\iadoptioneventdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\iadoptioneventdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\donationdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\donationdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\dao\\adoptioneventdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\dao\\adoptioneventdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\exception\\invalidpetageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,38 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\exception\\filehandlingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\exception\\filehandlingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\exception\\adoptionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\exception\\adoptionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\iadoptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\iadoptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\cashdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\cashdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\petshelter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\petshelter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|f:\\hexaware\\coding challenge\\c#_codingchallenge\\c#_codingchallenge\\entity\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F943A14-D09B-4F3E-BBA7-D3672A437AEA}|C#_CodingChallenge\\C#_CodingChallenge.csproj|solutionrelative:c#_codingchallenge\\entity\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,124 +105,29 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdoptionEventDaoImpl.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\AdoptionEventDaoImpl.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\AdoptionEventDaoImpl.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\AdoptionEventDaoImpl.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\dao\\AdoptionEventDaoImpl.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCcAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "PetShelter.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\PetShelter.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\PetShelter.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\PetShelter.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Entity\\PetShelter.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T07:36:03.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAdoptionEventDao.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\IAdoptionEventDao.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\IAdoptionEventDao.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\IAdoptionEventDao.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\dao\\IAdoptionEventDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T07:35:23.67Z",
+              "WhenOpened": "2025-04-09T05:47:32.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PetDaoImpl.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\PetDaoImpl.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\PetDaoImpl.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\PetDaoImpl.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\dao\\PetDaoImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Title": "AdoptionException.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Exception\\AdoptionException.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Exception\\AdoptionException.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Exception\\AdoptionException.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Exception\\AdoptionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:15:57.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IPetDao.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\IPetDao.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\IPetDao.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\IPetDao.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\dao\\IPetDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:15:13.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DBConnUtil.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Util\\DBConnUtil.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Util\\DBConnUtil.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Util\\DBConnUtil.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Util\\DBConnUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:11:36.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Main\\Program.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Main\\Program.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Main\\Program.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Main\\Program.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAgwKwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:22:33.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdoptionEvent.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\AdoptionEvent.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\AdoptionEvent.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\AdoptionEvent.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Entity\\AdoptionEvent.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA2wDYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:54:07.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DonationDaoImpl.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\DonationDaoImpl.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\DonationDaoImpl.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\DonationDaoImpl.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\dao\\DonationDaoImpl.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwEYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:26:44.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DBPropertyUtil.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Util\\DBPropertyUtil.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Util\\DBPropertyUtil.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Util\\DBPropertyUtil.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Util\\DBPropertyUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T06:10:14.6Z",
+              "WhenOpened": "2025-04-09T05:57:54.745Z",
               "EditorCaption": ""
             },
             {
@@ -240,20 +145,176 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Main\\Program.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Main\\Program.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Main\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:22:33.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdoptionEvent.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\AdoptionEvent.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\AdoptionEvent.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\AdoptionEvent.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Entity\\AdoptionEvent.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:54:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnUtil.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Util\\DBConnUtil.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Util\\DBConnUtil.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Util\\DBConnUtil.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Util\\DBConnUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:11:36.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBPropertyUtil.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Util\\DBPropertyUtil.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Util\\DBPropertyUtil.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Util\\DBPropertyUtil.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Util\\DBPropertyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:10:14.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Pet.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\Pet.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Pet.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Entity\\Pet.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA2wBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:45:08.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ItemDonation.cs",
               "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\ItemDonation.cs",
               "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\ItemDonation.cs",
               "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\ItemDonation.cs",
               "RelativeToolTip": "C#_CodingChallenge\\Entity\\ItemDonation.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T05:51:07.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdoptable.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\IAdoptable.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\IAdoptable.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\IAdoptable.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Entity\\IAdoptable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:53:43.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Donation.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\Donation.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Donation.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Entity\\Donation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:50:12.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Dog.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\Dog.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Dog.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Entity\\Dog.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:45:37.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Cat.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\Cat.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Cat.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Entity\\Cat.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:46:03.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CashDonation.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\CashDonation.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\CashDonation.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\CashDonation.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\Entity\\CashDonation.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:50:41.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PetDaoImpl.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\PetDaoImpl.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\PetDaoImpl.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\PetDaoImpl.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\dao\\PetDaoImpl.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:15:57.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPetDao.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\IPetDao.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\IPetDao.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\IPetDao.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\dao\\IPetDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:15:13.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "IDonationDao.cs",
               "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\IDonationDao.cs",
               "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\IDonationDao.cs",
@@ -266,20 +327,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AdoptionException.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Exception\\AdoptionException.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Exception\\AdoptionException.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Exception\\AdoptionException.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Exception\\AdoptionException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "IAdoptionEventDao.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\IAdoptionEventDao.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\IAdoptionEventDao.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\IAdoptionEventDao.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\dao\\IAdoptionEventDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:57:54.745Z",
+              "WhenOpened": "2025-04-09T07:35:23.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
+              "Title": "DonationDaoImpl.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\DonationDaoImpl.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\DonationDaoImpl.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\DonationDaoImpl.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\dao\\DonationDaoImpl.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:26:44.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdoptionEventDaoImpl.cs",
+              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\AdoptionEventDaoImpl.cs",
+              "RelativeDocumentMoniker": "C#_CodingChallenge\\dao\\AdoptionEventDaoImpl.cs",
+              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\dao\\AdoptionEventDaoImpl.cs",
+              "RelativeToolTip": "C#_CodingChallenge\\dao\\AdoptionEventDaoImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:36:03.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "FileHandlingException.cs",
               "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Exception\\FileHandlingException.cs",
               "RelativeDocumentMoniker": "C#_CodingChallenge\\Exception\\FileHandlingException.cs",
@@ -292,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "InsufficientFundsException.cs",
               "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Exception\\InsufficientFundsException.cs",
               "RelativeDocumentMoniker": "C#_CodingChallenge\\Exception\\InsufficientFundsException.cs",
@@ -305,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "InvalidPetAgeException.cs",
               "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Exception\\InvalidPetAgeException.cs",
               "RelativeDocumentMoniker": "C#_CodingChallenge\\Exception\\InvalidPetAgeException.cs",
@@ -314,97 +405,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T05:56:09.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IAdoptable.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\IAdoptable.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\IAdoptable.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\IAdoptable.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Entity\\IAdoptable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:53:43.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CashDonation.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\CashDonation.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\CashDonation.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\CashDonation.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Entity\\CashDonation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:50:41.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Donation.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Donation.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\Donation.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Donation.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Entity\\Donation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:50:12.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PetShelter.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\PetShelter.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\PetShelter.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\PetShelter.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Entity\\PetShelter.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:47:32.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Cat.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\Cat.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Cat.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Entity\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:46:03.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Dog.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\Dog.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Dog.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Entity\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:45:37.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Pet.cs",
-              "DocumentMoniker": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Pet.cs",
-              "RelativeDocumentMoniker": "C#_CodingChallenge\\Entity\\Pet.cs",
-              "ToolTip": "F:\\Hexaware\\Coding Challenge\\C#_CodingChallenge\\C#_CodingChallenge\\Entity\\Pet.cs",
-              "RelativeToolTip": "C#_CodingChallenge\\Entity\\Pet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:45:08.382Z",
               "EditorCaption": ""
             }
           ]
